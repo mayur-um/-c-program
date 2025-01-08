@@ -1,2 +1,2 @@
 # -c-program
-this my program where I practice c prog
+This is my c program where I practice c prog
